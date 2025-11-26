@@ -12,12 +12,17 @@
   "dependencies": {
     "@react-google-maps/api": "^2.20.7",
     "@supabase/supabase-js": "^2.84.0",
+    "@vitejs/plugin-react": "^5.1.1",
     "axios": "^1.13.2",
     "leaflet": "^1.9.4",
     "react": "^19.2.0",
     "react-dom": "^19.2.0",
+    "react-globe.gl": "^2.37.0",
     "react-leaflet": "^5.0.0",
-    "react-router-dom": "^7.9.6"
+    "react-router-dom": "^7.9.6",
+    "three": "^0.181.2",
+    "three-globe": "^2.45.0",
+    "three-render-objects": "^1.40.4"
   },
   "devDependencies": {
     "@eslint/js": "^9.39.1",
